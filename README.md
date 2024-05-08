@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Hi, I'm Mintu Sharma, a passionate web developer with 2 years of self coding experience, from India.<br><br>- 📚 I’m a BCA Student <br>- ⚡ In my free time I like to have Coffee With Codes .</p>
+<p align="left">Hi, I'm Mintu Sharma, a passionate web developer with 3 and half years of self coding experience, from India.<br><br>- 📚 I’m a BCA Student <br>- ⚡ In my free time I like to have Coffee With Codes .</p>
 
 ###
 
